@@ -1,2 +1,1 @@
-# HelloWorld
-Android Docs for HelloWorld
+#HelloWorld
